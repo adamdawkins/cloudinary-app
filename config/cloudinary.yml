@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: tearfund-test
+  api_key: '988641462262168'
+  api_secret: H95vM6gCKE8SucPdFWnlAiGVDXs
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: tearfund-test
+  api_key: '988641462262168'
+  api_secret: H95vM6gCKE8SucPdFWnlAiGVDXs
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: tearfund-test
+  api_key: '988641462262168'
+  api_secret: H95vM6gCKE8SucPdFWnlAiGVDXs
+  enhance_image_tag: true
+  static_image_support: false
